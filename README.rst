@@ -3,5 +3,4 @@ network-proposals
 
 Proposals & specifications
 
-
-Directory per proposal with RST
+See `Network Proposal List <https://github.com/ansible-network/network-proposals/issues>`_
