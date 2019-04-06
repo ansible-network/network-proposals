@@ -1,5 +1,5 @@
 network-proposals
-==================
+=================
 
 Proposals & specifications
 
